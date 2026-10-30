@@ -4,7 +4,7 @@ I'm a second year Computer Science student at **Simon Fraser University** in the
 
 ## Qualifications
 
-- 🔬 **Undergraduate Research Assistant**, GrUVi Lab, SFU (Sep 2026 – present): To be published
+- 🔬 **Undergraduate Research Assistant**, GrUVi Lab, SFU (Sep 2026 – present): [Automated 3D Asset Generation for Physically Based Facial Animation](https://github.com/sophiadt/bts-proj3)
 - 🔬 **Project Lead | Undergraduate Researcher**, GrUVi Lab, SFU (Jul 2026 – Sep 2026): [Synthesizing Facial Micro-Expressions via Biomechanical Simulation](https://github.com/WZH6489/Synthesizing-Facial-Micro-Expressions-via-Biomechanical-Simulation)
-- 📱 **Software Engineer Mentee | StormForge 2026**, SFU Surge (Jan 2026 – Apr 2026): Built [Respite](https://github.com/WZH6489/Respite-3.0), an iOS digital wellness app
+- 📱 **Software Engineer Mentee | StormForge 2026**, SFU Surge (Jan 2026 – Apr 2026): Built [Respite](https://github.com/WZH6489/Respite), an iOS digital wellness app
 - 🛠 **Skills:** Python, Java, Swift, Autodesk Maya, Computer Vision
